@@ -1,5 +1,9 @@
 123456
 123456
 abcd
+<<<<<<< HEAD
 zxc
 abcdef
+=======
+zxc
+>>>>>>> 14905f14ef1bb0e84b19185813b1ae9d8491ac9e
