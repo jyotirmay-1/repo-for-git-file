@@ -1,0 +1,10 @@
+this is 3rd file i created
+idk y
+<<<<<<< HEAD
+=======
+hmmmm
+
+
+
+
+>>>>>>> 46916bf (squash commit)

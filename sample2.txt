@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+jyotirmay
+=======
+jyotirmay
+<<<<<<< HEAD
+
+>>>>>>> 46916bf (squash commit)
+=======
+singh
+>>>>>>> 14905f1 (3rd)
